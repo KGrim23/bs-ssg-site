@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
+	<title>Kalaya Grimshaw&#39;s Porfolio</title>
+	<subtitle>I am writing about my experiences as Web Developer.</subtitle>
+	<link href="https://example.com/feed/feed.xml" rel="self"/>
+	<link href="https://example.com/"/>
+	<updated>2024-05-01T00:00:00Z</updated>
+	<id>https://example.com/</id>
+	<author>
+		<name>Kalaya grimshaw</name>
+		<email>kalaya.grimshaw@gmail.com</email>
+	</author>
+	
+	<entry>
+		<title>This is my fourth week at coding bootcamp.</title>
+		<link href="https://example.com/blog/fourthpost/"/>
+		<updated>2024-05-01T00:00:00Z</updated>
+		<id>https://example.com/blog/fourthpost/</id>
+		<content type="html">&lt;p&gt;We learnt about SSG (static site generator) also it&#39;s advantages and disadvantages of it.
+It was a difficult week as the learning has a bot of a step from the previous lessons. This lessons also includes the use of Git and Github.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Static Site Generator Course work:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We use 11ty as a dependencies and also use Node.js as a package manager.
+This site was born sute&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/n5m21_-oAi-2493.avif 2493w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/n5m21_-oAi-2493.webp 2493w&quot;&gt;&lt;img alt=&quot;picture of desktop computer in svg&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/n5m21_-oAi-2493.svg&quot; width=&quot;2493&quot; height=&quot;1011&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>This is my fifth week at coding bootcamp.</title>
+		<link href="https://example.com/blog/fifthpost/"/>
+		<updated>2024-01-31T00:00:00Z</updated>
+		<id>https://example.com/blog/fifthpost/</id>
+		<content type="html">&lt;p&gt;This week we will be looking at git flow and more indepth of it.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>This is my third week at coding bootcamp.</title>
+		<link href="https://example.com/blog/thirdpost/"/>
+		<updated>2024-01-22T00:00:00Z</updated>
+		<id>https://example.com/blog/thirdpost/</id>
+		<content type="html">&lt;p&gt;We learnt about bootstrap framework and advantages of it.&lt;/p&gt;
+&lt;p&gt;-Bootstraps Course work:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Pick a topic/subject close to your heart, or a business local to you.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;We&#39;re going to design a website based on that topic.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Take a look around rival businesses or similar sites based on your topic. Can you replicate what they are doing using HTML and Bootstrap CSS?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feel free to add your own CSS, but the main bulk of the work should be done using Bootstrap&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Suggestions&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Carousel Hero section&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accordion for info&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cards for skills section&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use a contact form - we’ll show you how to get submissions from it later in the course!&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a href=&quot;https://kgrim23.github.io/Portfolio-BS-version-2/&quot;&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/ND-Yi_aQIW-926.avif 926w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/ND-Yi_aQIW-926.webp 926w&quot;&gt;&lt;img alt=&quot;picture of desktop computer in svg&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/ND-Yi_aQIW-926.png&quot; width=&quot;926&quot; height=&quot;1292&quot;&gt;&lt;/picture&gt;
+&lt;/a&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>This is my second week at coding bootcamp.</title>
+		<link href="https://example.com/blog/secondpost/"/>
+		<updated>2024-01-15T00:00:00Z</updated>
+		<id>https://example.com/blog/secondpost/</id>
+		<content type="html">&lt;h1 id=&quot;web-dev-course-work&quot; tabindex=&quot;-1&quot;&gt;Web Dev Course Work &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/secondpost/&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;We have been given the task to create the table layout with html and css using github repository for the data we needed.&lt;/p&gt;
+&lt;p&gt;The website need to in Semantic Html and we also did the lighthouse audit for the page.&lt;/p&gt;
+&lt;p&gt;-Semantic Session - Table Format on github
+https://github.com/thecodersguilduk/semantic-html-challenge?tab=readme-ov-file#semantic-html-challenge&lt;/p&gt;
+&lt;a href=&quot;https://kgrim23.github.io/Semantic-html-and-css/&quot;&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/B_ktMZHUT2-1332.avif 1332w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/B_ktMZHUT2-1332.webp 1332w&quot;&gt;&lt;img alt=&quot;picture of desktop computer in svg&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/B_ktMZHUT2-1332.png&quot; width=&quot;1332&quot; height=&quot;1300&quot;&gt;&lt;/picture&gt;
+&lt;/a&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>This is my first week at coding bootcamp.</title>
+		<link href="https://example.com/blog/firstpost/"/>
+		<updated>2024-01-11T00:00:00Z</updated>
+		<id>https://example.com/blog/firstpost/</id>
+		<content type="html">&lt;h1 id=&quot;web-dev-course-work&quot; tabindex=&quot;-1&quot;&gt;Web Dev Course Work &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/firstpost/&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;-HTML &amp;amp; CSS Homepage (portfolio)&lt;/p&gt;
+&lt;p&gt;-Learn Git and Github desktop&lt;/p&gt;
+&lt;h1 id=&quot;portfolio-notes&quot; tabindex=&quot;-1&quot;&gt;Portfolio Notes &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/firstpost/&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&quot;what-should-your-online-portfolio-include&quot; tabindex=&quot;-1&quot;&gt;&lt;strong&gt;What Should Your Online Portfolio Include?&lt;/strong&gt; &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/firstpost/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;There are seven elements you absolutely need to include in your web developer portfolio site:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Homepage&lt;/li&gt;
+&lt;li&gt;Your skills&lt;/li&gt;
+&lt;li&gt;Your projects&lt;/li&gt;
+&lt;li&gt;About page&lt;/li&gt;
+&lt;li&gt;Contact information&lt;/li&gt;
+&lt;li&gt;Links to your projects on other platforms&lt;/li&gt;
+&lt;li&gt;Links to your resume and social media profiles&lt;/li&gt;
+&lt;/ol&gt;
+&lt;a href=&quot;https://kgrim23.github.io/W-News-Home-Page/&quot;&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/OkLycvsRGp-724.avif 724w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/OkLycvsRGp-724.webp 724w&quot;&gt;&lt;img alt=&quot;picture of desktop computer in svg&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/OkLycvsRGp-724.png&quot; width=&quot;724&quot; height=&quot;642&quot;&gt;&lt;/picture&gt;
+&lt;/a&gt;
+</content>
+	</entry>
+</feed>

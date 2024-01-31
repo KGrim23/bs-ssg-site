@@ -1,0 +1,54 @@
+{
+	"version": "https://jsonfeed.org/version/1.1",
+	"title": "Kalaya Grimshaw&#39;s Porfolio",
+	"language": "en",
+	"home_page_url": "https://example.com/",
+	"feed_url": "https://example.com/feed/feed.json",
+	"description": "I am writing about my experiences as Web Developer.",
+	"author": {
+		"name": "Kalaya grimshaw",
+		"url": "https://github.com/KGrim23"
+	},
+	"items": [
+		{
+			"id": "https://example.com/blog/fourthpost/",
+			"url": "https://example.com/blog/fourthpost/",
+			"title": "This is my fourth week at coding bootcamp.",
+			"content_html": "<p>We learnt about SSG (static site generator) also it's advantages and disadvantages of it.\nIt was a difficult week as the learning has a bot of a step from the previous lessons. This lessons also includes the use of Git and Github.</p>\n<ul>\n<li>Static Site Generator Course work:</li>\n</ul>\n<p>We use 11ty as a dependencies and also use Node.js as a package manager.\nThis site was born sute</p>\n<p><picture><source type=\"image/avif\" srcset=\"https://example.com/img/n5m21_-oAi-2493.avif 2493w\"><source type=\"image/webp\" srcset=\"https://example.com/img/n5m21_-oAi-2493.webp 2493w\"><img alt=\"picture of desktop computer in svg\" loading=\"lazy\" decoding=\"async\" src=\"https://example.com/img/n5m21_-oAi-2493.svg\" width=\"2493\" height=\"1011\"></picture></p>\n",
+			"date_published": "2024-05-01T00:00:00Z"
+		}
+		,
+		{
+			"id": "https://example.com/blog/fifthpost/",
+			"url": "https://example.com/blog/fifthpost/",
+			"title": "This is my fifth week at coding bootcamp.",
+			"content_html": "<p>This week we will be looking at git flow and more indepth of it.</p>\n",
+			"date_published": "2024-01-31T00:00:00Z"
+		}
+		,
+		{
+			"id": "https://example.com/blog/thirdpost/",
+			"url": "https://example.com/blog/thirdpost/",
+			"title": "This is my third week at coding bootcamp.",
+			"content_html": "<p>We learnt about bootstrap framework and advantages of it.</p>\n<p>-Bootstraps Course work:</p>\n<ol>\n<li><strong>Pick a topic/subject close to your heart, or a business local to you.</strong></li>\n<li><strong>We're going to design a website based on that topic.</strong></li>\n<li><strong>Take a look around rival businesses or similar sites based on your topic. Can you replicate what they are doing using HTML and Bootstrap CSS?</strong></li>\n<li><strong>Feel free to add your own CSS, but the main bulk of the work should be done using Bootstrap</strong></li>\n<li><strong>Suggestions</strong></li>\n</ol>\n<ul>\n<li><strong>Carousel Hero section</strong></li>\n<li><strong>Accordion for info</strong></li>\n<li><strong>Cards for skills section</strong></li>\n<li><strong>Use a contact form - we’ll show you how to get submissions from it later in the course!</strong></li>\n</ul>\n<a href=\"https://kgrim23.github.io/Portfolio-BS-version-2/\">\n<picture><source type=\"image/avif\" srcset=\"https://example.com/img/ND-Yi_aQIW-926.avif 926w\"><source type=\"image/webp\" srcset=\"https://example.com/img/ND-Yi_aQIW-926.webp 926w\"><img alt=\"picture of desktop computer in svg\" loading=\"lazy\" decoding=\"async\" src=\"https://example.com/img/ND-Yi_aQIW-926.png\" width=\"926\" height=\"1292\"></picture>\n</a>\n",
+			"date_published": "2024-01-22T00:00:00Z"
+		}
+		,
+		{
+			"id": "https://example.com/blog/secondpost/",
+			"url": "https://example.com/blog/secondpost/",
+			"title": "This is my second week at coding bootcamp.",
+			"content_html": "<h1 id=\"web-dev-course-work\" tabindex=\"-1\">Web Dev Course Work <a class=\"header-anchor\" href=\"https://example.com/blog/secondpost/\">#</a></h1>\n<p>We have been given the task to create the table layout with html and css using github repository for the data we needed.</p>\n<p>The website need to in Semantic Html and we also did the lighthouse audit for the page.</p>\n<p>-Semantic Session - Table Format on github\nhttps://github.com/thecodersguilduk/semantic-html-challenge?tab=readme-ov-file#semantic-html-challenge</p>\n<a href=\"https://kgrim23.github.io/Semantic-html-and-css/\">\n<picture><source type=\"image/avif\" srcset=\"https://example.com/img/B_ktMZHUT2-1332.avif 1332w\"><source type=\"image/webp\" srcset=\"https://example.com/img/B_ktMZHUT2-1332.webp 1332w\"><img alt=\"picture of desktop computer in svg\" loading=\"lazy\" decoding=\"async\" src=\"https://example.com/img/B_ktMZHUT2-1332.png\" width=\"1332\" height=\"1300\"></picture>\n</a>\n",
+			"date_published": "2024-01-15T00:00:00Z"
+		}
+		,
+		{
+			"id": "https://example.com/blog/firstpost/",
+			"url": "https://example.com/blog/firstpost/",
+			"title": "This is my first week at coding bootcamp.",
+			"content_html": "<h1 id=\"web-dev-course-work\" tabindex=\"-1\">Web Dev Course Work <a class=\"header-anchor\" href=\"https://example.com/blog/firstpost/\">#</a></h1>\n<p>-HTML &amp; CSS Homepage (portfolio)</p>\n<p>-Learn Git and Github desktop</p>\n<h1 id=\"portfolio-notes\" tabindex=\"-1\">Portfolio Notes <a class=\"header-anchor\" href=\"https://example.com/blog/firstpost/\">#</a></h1>\n<h2 id=\"what-should-your-online-portfolio-include\" tabindex=\"-1\"><strong>What Should Your Online Portfolio Include?</strong> <a class=\"header-anchor\" href=\"https://example.com/blog/firstpost/\">#</a></h2>\n<p>There are seven elements you absolutely need to include in your web developer portfolio site:</p>\n<ol>\n<li>Homepage</li>\n<li>Your skills</li>\n<li>Your projects</li>\n<li>About page</li>\n<li>Contact information</li>\n<li>Links to your projects on other platforms</li>\n<li>Links to your resume and social media profiles</li>\n</ol>\n<a href=\"https://kgrim23.github.io/W-News-Home-Page/\">\n<picture><source type=\"image/avif\" srcset=\"https://example.com/img/OkLycvsRGp-724.avif 724w\"><source type=\"image/webp\" srcset=\"https://example.com/img/OkLycvsRGp-724.webp 724w\"><img alt=\"picture of desktop computer in svg\" loading=\"lazy\" decoding=\"async\" src=\"https://example.com/img/OkLycvsRGp-724.png\" width=\"724\" height=\"642\"></picture>\n</a>\n",
+			"date_published": "2024-01-11T00:00:00Z"
+		}
+		
+	]
+}

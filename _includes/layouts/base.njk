@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>{{ title or metadata.title }}</title>
+		<meta name="description" content="{{ description or metadata.description }}">
+
+		<style>
+			body{
+				margin: 10px 50px;
+				border-sizing: border-box;
+				min-height: 100vh;
+				display-flex;
+				flex-direction: column;
+			}
+
+			main{
+				margin-top: 70px;
+				line-height: 2;
+				min-height: 100vh;
+			}
+
+			header{
+				margin-top: 30px;
+			}
+
+			nav{
+				display: flex;
+				flex-direction: row;
+				width: 100%;
+				gap: 20px;
+				justify-content: space-between;
+				align-items: center;
+			}
+
+			footer{
+				margin-top: auto;
+				text-align: center;
+			}
+
+			ul{
+				list-style-type:none; display:inline-flex; flex-direction:row; gap:20px;
+			}
+		</style>
+	
+</head>
+<body style="background-color: #161A30; color:#B6BBC4; font-family:poppins; font-size: 1rem">
+	<header>
+		<nav>	
+			<a href="/">
+				<img src="/images/avator.png" alt="avator logo" width="70" style="align-items:center; justify-content:center; border-radius:50%; border: none;">
+			</a>
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li><a href="/blog">Blogs</a></li>
+				<li><a href="/contact">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+
+<main id="skip">
+		{{ content | safe }}
+</main>
+
+<footer> 
+	&copy; 2024 Kalaya Grimshaw | All right reserved
+</footer>
+
+</body>
+</html>
