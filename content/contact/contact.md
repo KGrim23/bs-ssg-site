@@ -9,4 +9,6 @@ eleventyNavigation:
 
 🗄️ Github: https://github.com/KGrim23
 
-🚦 linkedin: Kalaya Grimshaw
+🚦 linkedin: www.linkedin.com/in/kgrim23
+
+

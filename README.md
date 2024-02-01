@@ -1,3 +1,7 @@
-# This is the course work SSG - Static Site Genrator
+# This is the course work Git Workflow:
+Here is the working netlify link.
 
-This blog will show my learning journey through the coding bootcamp with projects and links to github.
+
+https://bs-ssg-site.netlify.app
+
+
