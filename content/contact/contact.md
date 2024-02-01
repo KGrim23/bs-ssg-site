@@ -17,7 +17,7 @@ eleventyNavigation:
   <main class="container mt-0">
     <form class="justify-content-center" action="POST" data-netlify="true" class="row g-1 mt-0 mb-md-5">
     
-        <div git status
+        <div class="col-lg-5">
           <label for="name" class="form-label">Name</label>
           <input type="text" name="inputName" class="form-control bg-dark-subtle" id="inputName" placeholder="">
         </div>
