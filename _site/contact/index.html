@@ -51,26 +51,22 @@
 <p>🚦 linkedin: www.linkedin.com/in/kgrim23</p>
 <section><h1 class="text-center mt-5">Thanks for taking the time to reach out. <br> How can I help you today?</h1></section>
   <main class="container mt-0">
-    <form class="justify-content-center" action="POST" data-netlify="true" class="row g-1 mt-0 mb-md-5">
-<p>&lt;div git status
+    <form name="contact" method="POST" data-netlify="true" class="row g-1 mt-0 mb-md-5">
+<p><div class="col-lg-5">
 <label for="name" class="form-label">Name</label>
-<input type="text" name="inputName" class="form-control bg-dark-subtle" id="inputName" placeholder="">
+<input type="name" name="name" class="form-control bg-dark-subtle" id="inputName" placeholder="">
 </div></p>
 <p><div class="col-lg-5">
 <label for="inputEmail" class="form-label">Email</label>
-<input type="email" name="inputEmail" class="form-control bg-dark-subtle" id="inputEmail" placeholder="">
+<input type="email" name="email" class="form-control bg-dark-subtle" id="inputEmail" placeholder="">
 </div></p>
 <p><div class="col-lg-5">
 <label for="inputAddress2" class="form-label">Phone Number</label>
-<input type="text" name="inputPhoneumber" class="form-control bg-dark-subtle" id="inputPhoneNumber" placeholder="">
+<input type="number" name="number" class="form-control bg-dark-subtle" id="inputPhoneNumber" placeholder="">
 </div></p>
 <p><div class="mt-5 col-lg-5">
 <label for="floatingTextarea2">Message</label>
-<textarea type="file" name="message" class="form-control  lead bg-dark-subtle" placeholder="" id="floatingTextarea2" style="height: 300px"></textarea>
-</div></p>
-<p><div class="mt-5 col-lg-5">
-<label for="floatingTextarea2">Upload your artwork</label>
-<input type="file" name="myfile" class="form-control  lead bg-dark-subtle" placeholder="Upload File" id="floatingTextarea2" rows="5"></input>
+<textarea name="message" class="form-control  lead bg-dark-subtle" placeholder="" id="floatingTextarea2" style="height: 300px"></textarea>
 </div></p>
 <p><div class="field">
 <div data-netlify-recaptcha="true"></div>
@@ -79,7 +75,10 @@
 <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </div>
 </form>
-</main></p>
+</main>
+<input type="checkbox" required>
+&quot;I agree to the terms and conditions as set out by the user agreement.&quot;
+</input></p>
 
 	</main>
 

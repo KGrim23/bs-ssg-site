@@ -46,3 +46,6 @@ eleventyNavigation:
           </div>
       </form>
     </main>
+  <input type="checkbox" required>
+    "I agree to the terms and conditions as set out by the user agreement."
+  </input>
