@@ -29,7 +29,7 @@ eleventyNavigation:
 
         <div class="col-lg-5">
           <label for="inputAddress2" class="form-label">Phone Number</label>
-          <input type="number" name="number" class="form-control bg-dark-subtle" id="inputPhoneNumber" placeholder="">
+          <input type="tel" name="number" class="form-control bg-dark-subtle" id="inputPhoneNumber" placeholder="">
         </div>
 
           <div class="mt-5 col-lg-5">
