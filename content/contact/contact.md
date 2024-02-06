@@ -29,22 +29,26 @@ eleventyNavigation:
           <label for="floatingTextarea2">Message</label>
           <textarea name="message" class="form-control  lead bg-dark-subtle" placeholder="" id="floatingTextarea2" style="height: 300px"></textarea>
         </div>
-        <input type="checkbox" required>
-         "I agree to the terms and conditions as set out by the user agreement."
-        </input>
+   
+      <input type="checkbox" required>
+       "I agree to the terms and conditions as set out by the user agreement."
+      </input>
+      
+      <div class="field">
+         <div data-netlify-recaptcha="true"></div>
+      </div>
 
-        <div class="field">
-          <div data-netlify-recaptcha="true"></div>
-        </div>
+      <div class="col-12 text-center">
+          <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+      </div>
+    </form>
+   
 
-          <div class="col-12 text-center">
-            <button type="submit" class="btn btn-lg btn-primary">Submit</button>
-          </div>
-      </form>
-    </main>
+  
 
 <p class="mt-5">
 <i class="bi bi-envelope-fill"> kalaya.grimshaw@gmail.com</i><br>
 <i class="bi bi-github"> https://github.com/KGrim23</i><br>
 <i class="bi bi-linkedin">  www.linkedin.com/in/kgrim23</i>
 </p>
+</main>
