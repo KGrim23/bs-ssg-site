@@ -8,7 +8,7 @@ eleventyNavigation:
 <section><h2 class="text-center mt-5">Thanks for taking the time to reach out. <br> How can I help you today?</h2></section>
 
   <main class="container mt-0">
-    <form name="contact" method="POST" data-netlify="true" action="/contact/success-msg.md" class="row g-1 mt-0 mb-md-5">
+    <form name="contact" method="POST" data-netlify="true" action="/success-msg.md" class="row g-1 mt-0 mb-md-5">
     
         <div class="col-lg-5">
           <label for="name" class="form-label">Name</label>
