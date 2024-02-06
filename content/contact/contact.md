@@ -29,6 +29,9 @@ eleventyNavigation:
           <label for="floatingTextarea2">Message</label>
           <textarea name="message" class="form-control  lead bg-dark-subtle" placeholder="" id="floatingTextarea2" style="height: 300px"></textarea>
         </div>
+        <input type="checkbox" required>
+         "I agree to the terms and conditions as set out by the user agreement."
+        </input>
 
         <div class="field">
           <div data-netlify-recaptcha="true"></div>
@@ -39,10 +42,6 @@ eleventyNavigation:
           </div>
       </form>
     </main>
-
-  <input type="checkbox" required>
-    "I agree to the terms and conditions as set out by the user agreement."
-  </input>
 
 <p class="mt-5">
 <i class="bi bi-envelope-fill"> kalaya.grimshaw@gmail.com</i><br>
