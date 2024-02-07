@@ -49,10 +49,10 @@ eleventyNavigation:
 
 </main>
 
-<div class="d-flex justify-content-center">
+<div class=" d-flex justify-content-center">
 <p class="mt-5">
-<i class="bi bi-envelope-fill"> kalaya.grimshaw@gmail.com</i> &nbsp
-<i class="bi bi-github"> https://github.com/KGrim23</i> &nbsp
+<i class="bi bi-envelope-fill"> kalaya.grimshaw@gmail.com</i> <br>
+<i class="bi bi-github"> https://github.com/KGrim23</i> <br>
 <i class="bi bi-linkedin">  www.linkedin.com/in/kgrim23</i>
 </pre>
 </div>
