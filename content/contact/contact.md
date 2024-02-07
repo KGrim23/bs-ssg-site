@@ -5,8 +5,7 @@ eleventyNavigation:
   order: 3
 ---
 
-<section class="text-center">
-<h2 class="text-center mt-5">Thanks for taking the time to reach out. <br> How can I help you today?</h2></section>
+<h2 class="text-center mt-5 fs-5 text-secondary">Thanks for taking the time to reach out. <br> How can I help you today?</h2>
 
   <main class="container mt-0">
 
