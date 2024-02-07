@@ -56,3 +56,17 @@ eleventyNavigation:
 <i class="bi bi-linkedin">  www.linkedin.com/in/kgrim23</i>
 </pre>
 </div>
+
+<script>
+  let inputName = document.getElementById("inputName")
+  function justLetters (inputName) {
+    let letters = /^[A-Za-z]+$/;
+    if (inputName.value.match(letters)){
+      return true;
+    }
+    else{
+      return false;
+    }
+  }
+
+</script>
